@@ -1,6 +1,5 @@
 # BareOS director Dockerfile
 FROM       debian:stretch
-MAINTAINER timofeev@lecta.ru
 
 ENV APT_KEY_DONT_WARN_ON_DANGEROUS_USAGE=DontWarn
 
